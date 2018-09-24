@@ -1,4 +1,5 @@
-This repository contains analysis for the in vivo portion of my Ena/VASP project. 
+This repository contains analysis for the in vivo portion of my Ena/VASP project. Citation will be updated
+for proper citation of this work once it is published.
 
 The in_vivo folder contains scripts and MATLAB results from CellGeo analysis
 Citation for CellGeo: Tsygankov, D., Bilancia, C. G., Vitriol, E. A., Hahn, K. M., Peifer, M., 
